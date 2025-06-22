@@ -1,7 +1,7 @@
 # Tradika - Software Documentation
 
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.jintelias.tradika)
-[![App Web](https://img.shields.io/badge/App_Web-0D96F6?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://jintelias.tradika.com)
+[![App Web](https://img.shields.io/badge/App_Web-0D96F6?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://tradika.jintelias.com)
 
 ```mermaid
 graph TD
@@ -261,18 +261,6 @@ graph LR
 - Dart 2.17+
 - Android Studio/Xcode (for emulators)
 - Physical device (recommended)
-
-### Installation
-```bash
-# Clone repository
-git clone https://github.com/your-organization/tradika.git
-
-# Install dependencies
-flutter pub get
-
-# Run on connected device
-flutter run
-```
 
 ### Configuration
 1. Create `.env` file in root directory:
